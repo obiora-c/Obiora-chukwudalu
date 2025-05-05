@@ -3,8 +3,9 @@ I'm a passionate **[Software Development/ Backend development]** with experience
 
 - 🌱 Currently learning: **[Backend development]**
 - 🌍 Languages:English,Python,Javascript and Html.
+  
 -📫 How to reach me: 
-![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -- obiorachukwudalu@gmail.com
+![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  obiorachukwudalu@gmail.com
 
 My Skills 🧠
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
