@@ -1,6 +1,7 @@
 Hi there, I'm Chukwudalu Obiora
 
 About Me 🚀
+
 I'm a passionate **[Software Development/ Backend development]** with experience in **[Python,Javascript,Java and Html]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[Backend development]**
