@@ -2,9 +2,9 @@ Hi there, I'm Chukwudalu Obiora
 
 About Me 🚀
 
-I'm a passionate **[Software Development/ Backend development]** with experience in **[Python,Javascript,Java and Html]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Software Development/ Fullstack development with experience in Python,Javascript,Java and Html. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Backend development]**
+- 🌱 Currently learning: Backend development
 - 🌍 Languages:English,Python,Javascript and Html.
   
 -📫 How to reach me: 
@@ -18,4 +18,4 @@ My Skills 🧠
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 Get in Touch 📬
-- **[LinkedIn]**(www.linkedin.com/in/chukwudalu-obiora-56b749323)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) www.linkedin.com/in/chukwudalu-obiora-56b749323
